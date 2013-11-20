@@ -1,0 +1,129 @@
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\MyAwesomeMvcProject.dll.config
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\MyAwesomeMvcProject.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\MyAwesomeMvcProject.pdb
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Antlr3.Runtime.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\EntityFramework.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\EntityFramework.SqlServer.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.Google.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Web.Infrastructure.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Newtonsoft.Json.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Ninject.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Omu.Awesome.Core.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Omu.Awesome.Mvc.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Omu.AwesomeMvc.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Owin.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\System.Web.Helpers.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\System.Web.Mvc.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\System.Web.Optimization.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\System.Web.Razor.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\System.Web.WebPages.Deployment.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\System.Web.WebPages.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\System.Web.WebPages.Razor.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\T4MVCExtensions.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\WebActivator.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\WebGrease.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Ninject.pdb
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Ninject.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Omu.AwesomeMvc.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\System.Web.Helpers.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\System.Web.Mvc.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\System.Web.Optimization.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\System.Web.Razor.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\System.Web.WebPages.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\System.Web.WebPages.Deployment.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\System.Web.WebPages.Razor.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Newtonsoft.Json.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\WebActivator.pdb
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Antlr3.Runtime.pdb
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\EntityFramework.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\EntityFramework.SqlServer.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.Google.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\obj\Debug\MyAwesomeMvcProject.csprojResolveAssemblyReference.cache
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\obj\Debug\MyAwesomeMvcProject.dll
+c:\users\zekar_000\documents\visual studio 2013\Projects\MyAwesomeMvcProject\MyAwesomeMvcProject\obj\Debug\MyAwesomeMvcProject.pdb
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\MyAwesomeMvcProject.dll.config
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\MyAwesomeMvcProject.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\MyAwesomeMvcProject.pdb
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Antlr3.Runtime.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\EntityFramework.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\EntityFramework.SqlServer.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Newtonsoft.Json.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Ninject.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Omu.Awesome.Core.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Omu.Awesome.Mvc.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Omu.AwesomeMvc.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Owin.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\System.Web.Helpers.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\System.Web.Mvc.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\System.Web.Optimization.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\System.Web.Razor.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\System.Web.WebPages.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\T4MVCExtensions.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\WebActivator.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\WebGrease.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Ninject.pdb
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Ninject.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\System.Web.Helpers.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\System.Web.Mvc.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\System.Web.Optimization.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\System.Web.Razor.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\System.Web.WebPages.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Newtonsoft.Json.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\WebActivator.pdb
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Antlr3.Runtime.pdb
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\EntityFramework.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\EntityFramework.SqlServer.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\obj\Debug\MyAwesomeMvcProject.csprojResolveAssemblyReference.cache
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\obj\Debug\MyAwesomeMvcProject.dll
+C:\Users\zekar_000\Documents\GitHub\Argo\MyAwesomeMvcProject\obj\Debug\MyAwesomeMvcProject.pdb
